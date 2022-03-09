@@ -4,7 +4,7 @@ Carrot Labs indie game studio's website
 Copyright: Carrot Labs - 2021
 
 ## Intro
-Welcome to Carrot Labs. We make stupid games for even stupider people. If you always lose to your pet rock whilst playing *rock-paper-scissors*, then you somehow stubbled into the right place.
+Welcome to Carrot Labs. We make stupid games for even stupider people. If you always lose to your pet rock whilst playing *rock-paper-scissors*, then you somehow stumbled into the right place (yeah good for you :grinning:).
 
 We are an indie game studio in name only. Our goal is to build small games for the fun of it (and be a little crass in the process). Check out our projects below.
 
